@@ -112,13 +112,13 @@ Prompt System
 
 Prompts used in this project are located here:
 
-./Prompts/
+[View Prompts](./Prompts/)
 
 Generated Outputs
 
 Final generated content can be accessed here:
 
-./Outputs/
+[View Outputs](./Outputs/)
 
 Key Takeaways
 
